@@ -75,16 +75,16 @@ E:\SIH 2\
 
 ## Sample Evaluation Videos
 
-Pre-recorded driving datasets and dashcam footage for evaluation can be downloaded from the [v1.0.0 Release](https://github.com/UmeshChandra2005/Advanced-Camera-Detection-and-Perception-with-Path-Planner-for-UGVs/releases/tag/v1.0.0):
+Pre-recorded driving datasets and dashcam footage for evaluation can be downloaded from Google Drive:
 
-- 📦 **[Download Sample_videos_for_uploading.zip](https://github.com/UmeshChandra2005/Advanced-Camera-Detection-and-Perception-with-Path-Planner-for-UGVs/releases/download/v1.0.0/Sample_videos_for_uploading.zip)** (~825 MB)
+- 📦 **[Download Sample videos for uploading (Google Drive)](https://drive.google.com/drive/folders/1YD4zZ_SOs_tRH7RVWDh8FgeP4qsm6MA7?usp=sharing)**
 
 **Included Scenarios:**
 - `Sample 1.mp4`: Front dashcam highway/road driving with clear road markings.
 - `Sample 2.mp4`: Offroad & rugged terrain navigation testing corridor adaptation.
 - `Sample 3.mp4`: Complex multi-vehicle traffic and obstacle avoidance scenario.
 
-Extract the zip into the `uploads/` directory to quickly select and benchmark them in the web dashboard or CLI pipeline.
+Extract the downloaded videos/zip into the `uploads/` directory to quickly select and benchmark them in the web dashboard or CLI pipeline.
 
 ---
 
