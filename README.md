@@ -88,7 +88,7 @@ Extract the downloaded videos/zip into the `uploads/` directory to quickly selec
 
 ---
 
-### Method 1: Opening Interactive Web Dashboard (Recommended)
+### 📲📲Method 1: Opening Interactive Web Dashboard (Recommended)📲📲
 
 1. Launch the server:
    Double-click **`run_server.bat`** located in the downloaded zip file or run:
